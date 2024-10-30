@@ -1,1 +1,1 @@
-# Proyecto de Negocios Electrónicos
+# Practica/Lab de Negocios Electrónicos
